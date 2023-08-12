@@ -1,18 +1,18 @@
 <h1 align="center"> Привет!👋 Меня зовут Алексей 💖</h1>
 <h2>Мне нравятся разные языки ☕:</h2>
 
-[![Top 
+[Top 
 
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyEsipov&layout=donut-
 
-vertical&hide=shell)](https://github.com/anuraghazra/github-readme-stats) 
+vertical&hide=shell)(https://github.com/anuraghazra/github-readme-stats) 
 <h2>Я активно развиваю свой 
 
 Github :octocat:</h2>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?
+(http://github-profile-summary-cards.vercel.app/api/cards/productive-time?
 
-username=AlexeyEsipov&theme=dracula&utcOffset=8) ![](http://github-profile-summary-
+username=AlexeyEsipov&theme=dracula&utcOffset=8) (http://github-profile-summary-
 
 cards.vercel.app/api/cards/stats?username=AlexeyEsipov&theme=dracula)
 <h2>
@@ -20,7 +20,7 @@ cards.vercel.app/api/cards/stats?username=AlexeyEsipov&theme=dracula)
 
 📞:</h2>
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-
+[Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-
 
 badge&logo=telegram&logoColor=27A0D9)](https://t.me/Alex46Volokno)
 
