@@ -15,6 +15,8 @@
   </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=AlexeyEsipov&style=flat-square&color=blue" alt=""/>
+
 ### About me
 - 🌱 I’m currently learning **Java**
 - 📝 I regularly write articles on [Medium](medium-link)
