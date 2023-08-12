@@ -1,4 +1,4 @@
-<h1 align="center"> Привет!👋 Меня зовут Алексей 💖</h1>
+<h1 align="center"> Привет! Меня зовут Алексей </h1>
 
 **AlexeyEsipov/AlexeyEsipov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears 
 
