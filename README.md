@@ -3,10 +3,10 @@
     <h3>Java Developer from Kursk, Russia</h3>
 </div>
 
-<div id="socials" align="center">
-    <a href="linkedin-url">
+ <div id="socials" align="center">
+  <!--  <a href="linkedin-url">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  </a> -->
 <!--   <a href="twitter-url">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a> -->
@@ -19,7 +19,6 @@
 
 ### About me
 - 🌱 I’m currently learning **Java**
-- 📝 I regularly write articles on [Medium](medium-link)
 - 📄 Know about my experiences [CV](cv-link)
 - 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:a_esipov_it@list.ru)
 - 🌍 I speak English
