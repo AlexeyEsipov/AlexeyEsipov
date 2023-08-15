@@ -25,7 +25,10 @@
 
 ---
 
-### Languages and tools
+<p align="center">
+ <h3 align="center">Languages and tools</h3>
+</p>
+
 
 <div id="languages" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="java" width="100" height="100"/>&nbsp;
@@ -37,7 +40,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="jenkins" width="100" height="100"/>&nbsp;    
 </div>
 
-### My stat
+---
+
+<p align="center">
+ <h3 align="center">My stat</h3>
+</p>
 
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexeyEsipov&theme=github_dark" alt=""/>
@@ -46,6 +53,8 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexeyEsipov&theme=github_dark" alt=""/>    
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexeyEsipov&theme=github_dark" alt=""/>    
 </div>
+
+---
 
 <p align="center">
  <h3 align="center">LeetCode Readme Stats</h3>
