@@ -47,6 +47,10 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexeyEsipov&theme=github_dark" alt=""/>    
 </div>
 
+<p align="center">
+ <h3 align="center">LeetCode Readme Stats</h3>
+</p>
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=AlexeyEsipov)](https://github.com/AlexeyEsipov/leetcode-stats)
 
 ---
