@@ -41,7 +41,15 @@
 </div>
 
 ---
+| #   | Проекты                                                 | Технологии                 |                                        Сборка                           |
+|-----|---------------------------------------------------------|----------------------------|:-----------------------------------------------------------------------:|
+| 1.  | [MyLeetCode](https://github.com/AlexeyEsipov/myLeetcode)| Rest Api, Spring Boot, AOP | [![github actions][actions-image-my-leetcode]][actions-url-my-leetcode] |
 
+
+[//]: # (arm_payments)
+[actions-image-my-leetcode]: https://github.com/AlexeyEsipov/myLeetcode/actions/workflows/maven.yml/badge.svg
+[actions-url-my-leetcode]: https://github.com/AlexeyEsipov/myLeetcode/actions/workflows/maven.yml
+---
 <p align="center">
  <h3 align="center">My stat</h3>
 </p>
