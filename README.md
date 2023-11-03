@@ -40,16 +40,18 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="jenkins" width="100" height="100"/>&nbsp;    
 </div>
 
----
+<!-- ---
 | #   | Проекты                                                 | Технологии                 |                                        Сборка                           |
 |-----|---------------------------------------------------------|----------------------------|:-----------------------------------------------------------------------:|
-| 1.  | [MyLeetCode](https://github.com/AlexeyEsipov/myLeetcode)|         Алгоритмы          | [![github actions][actions-image-my-leetcode]][actions-url-my-leetcode] |
+| 1.  | [MyLeetCode](https://github.com/AlexeyEsipov/myLeetcode)|         Алгоритмы          | [![github actions][actions-image-my-leetcode]][actions-url-my-leetcode] |-->
 
 
 [//]: # (arm_payments)
 [actions-image-my-leetcode]: https://github.com/AlexeyEsipov/myLeetcode/actions/workflows/maven.yml/badge.svg
 [actions-url-my-leetcode]: https://github.com/AlexeyEsipov/myLeetcode/actions/workflows/maven.yml
+
 ---
+
 <p align="center">
  <h3 align="center">My stat</h3>
 </p>
@@ -71,4 +73,5 @@
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=AlexeyEsipov)](https://github.com/AlexeyEsipov/leetcode-stats)
 
 ---
+
 <img src="https://komarev.com/ghpvc/?username=AlexeyEsipov&style=flat-square&color=blue" alt=""/>
