@@ -43,7 +43,7 @@
 ---
 | #   | Проекты                                                 | Технологии                 |                                        Сборка                           |
 |-----|---------------------------------------------------------|----------------------------|:-----------------------------------------------------------------------:|
-| 1.  | [MyLeetCode](https://github.com/AlexeyEsipov/myLeetcode)| Rest Api, Spring Boot, AOP | [![github actions][actions-image-my-leetcode]][actions-url-my-leetcode] |
+| 1.  | [MyLeetCode](https://github.com/AlexeyEsipov/myLeetcode)|         Алгоритмы          | [![github actions][actions-image-my-leetcode]][actions-url-my-leetcode] |
 
 
 [//]: # (arm_payments)
