@@ -19,7 +19,7 @@
 
 ### About me
 - 🌱 I’m currently learning **Java**
-- 📄 Know about my experiences [CV](cv-link)
+<!-- - 📄 Know about my experiences [CV](cv-link) -->
 <!-- - 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:a_esipov_it@list.ru) -->
 - 🌍 I speak English
 
